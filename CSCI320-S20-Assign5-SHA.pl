@@ -1,3 +1,5 @@
+%NOTE: I didn't finish this assignment (clearly)
+
 %1) Find the length of a list
 %   Using the format mylength(List,Len), where Len is the length
 mylength([],0).
